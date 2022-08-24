@@ -1,4 +1,4 @@
-list = []
+list = [5, 2]
 
 size = len(list)
 for s in range(size):
